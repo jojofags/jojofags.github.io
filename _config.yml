@@ -6,17 +6,16 @@ author: Hirohiko Araki
   name: HirohikoAraki
   avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
   profile: |
-    Just another ordinary grad student in computer engineering.
-    I'm interest in programming language, algorithm, and mathematics.
+    “The editors-in-chief generally only work during the afternoon. For the past twenty years, I've brought my script to the Shueisha building in the middle of the morning and I show it to the only person who is working at that hour. This person is the very first editor-in-chief of "JoJo's Bizarre Adventure" and their impressions and suggestions are very important to me. If I went there during the afternoon and met another editors, I would have produced a very different work.
+    Destiny isn't founded on chance, it has its reasons. In "JoJo's", it's on that point of view that one bases themselves. It doesn't have much sense scientifically, but this is how I feel.”
 
-    I live in Chiang Mai or Bangkok, Thailand.
-    And you may found me around BarCamp event ;D
+    — Hirohiko Araki
   socials:
     facebook:
     twitter: //twitter.com/#
     google-plus:
     github: //github.com/#
-    stack-overflow: //stackoverflow.com/users/889578/neizod
+    stack-overflow: //stackoverflow.com/users/#
     instagram:
     pinterest:
     steam: //steamcommunity.com/id/#
@@ -24,7 +23,7 @@ license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: /lemma-theme
+baseurl: /blog
 paginate: 2
 
 
